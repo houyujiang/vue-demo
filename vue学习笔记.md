@@ -1,5 +1,7 @@
 # vue 学习笔记
-
+## 0.项目初始化
+1. 安装 vue cli  
+   cnpm -g install vue-cli
 ## 1.安装的依赖包
 
 1. stylus
