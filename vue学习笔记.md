@@ -14,6 +14,10 @@
    cnpm install fastclick --save
    作用：修复触摸屏点击事件 延迟300ms
 
+4. vue-awesome-swiper
+   cnpm install vue-awesome-swiper@2.6.7 --save
+   作用：首页轮播图插件
+
 ## 2.学习笔记
 
 1. 移动端布局使用:rem
