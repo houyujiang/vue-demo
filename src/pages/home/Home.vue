@@ -4,6 +4,7 @@
     <home-swiper></home-swiper>
     <home-zone-icons></home-zone-icons>
     <home-hot-top></home-hot-top>
+    <recommend></recommend>
   </div>
 </template>
 <script>
@@ -11,6 +12,7 @@ import HomeHeader from './components/Header'
 import HomeSwiper from './components/Swiper'
 import HomeZoneIcons from './components/HomeZoneIcons'
 import HomeHotTop from './components/HotTop'
+import Recommend from './components/Recommend'
 
 export default {
   name: 'Home',
@@ -18,7 +20,8 @@ export default {
     HomeHeader,
     HomeSwiper,
     HomeZoneIcons,
-    HomeHotTop
+    HomeHotTop,
+    Recommend
   }
 }
 </script>
